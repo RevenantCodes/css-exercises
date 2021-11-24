@@ -8,6 +8,11 @@ body {
   font-family: Besley, serif;
 }
 
+.left {
+  display: flex;
+  align-items: center;
+}
+
 .header {
   background: white;
   border-bottom: 1px solid #ddd;
